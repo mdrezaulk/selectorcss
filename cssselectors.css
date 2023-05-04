@@ -1,0 +1,29 @@
+
+*{
+
+font-weight: 500;
+}
+
+
+
+.reza1{color:aqua;
+
+
+}
+#reza2{ color: red;}
+
+h1,p{ color: rgb(65, 9, 249);}
+
+div p b{ font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 500;}
+div p{color:red;}
+
+
+div+p{background-color: red;}
+
+
+div~p{background-color: green;}
+
+
+
